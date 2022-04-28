@@ -1,0 +1,186 @@
+main_category,sub_category,url
+소설,나라별 소설,https://book.naver.com/category/index.naver?cate_code=100010&tab=top100&list_type=list&sort_type=salecount
+소설,고전/문학,https://book.naver.com/category/index.naver?cate_code=100020&tab=top100&list_type=list&sort_type=salecount
+소설,장르소설,https://book.naver.com/category/index.naver?cate_code=100030&tab=top100&list_type=list&sort_type=salecount
+소설,테마소설,https://book.naver.com/category/index.naver?cate_code=100040&tab=top100&list_type=list&sort_type=salecount
+시/에세이,한국시,https://book.naver.com/category/index.naver?cate_code=110010&tab=top100&list_type=list&sort_type=salecount
+시/에세이,외국시,https://book.naver.com/category/index.naver?cate_code=110020&tab=top100&list_type=list&sort_type=salecount
+시/에세이,그림/포토 에세이,https://book.naver.com/category/index.naver?cate_code=110080&tab=top100&list_type=list&sort_type=salecount
+시/에세이,독서 에세이,https://book.naver.com/category/index.naver?cate_code=110060&tab=top100&list_type=list&sort_type=salecount
+시/에세이,명상 에세이,https://book.naver.com/category/index.naver?cate_code=110070&tab=top100&list_type=list&sort_type=salecount
+시/에세이,성공 에세이,https://book.naver.com/category/index.naver?cate_code=110050&tab=top100&list_type=list&sort_type=salecount
+시/에세이,여행 에세이,https://book.naver.com/category/index.naver?cate_code=110040&tab=top100&list_type=list&sort_type=salecount
+시/에세이,연애/사랑 에세이,https://book.naver.com/category/index.naver?cate_code=110090&tab=top100&list_type=list&sort_type=salecount
+시/에세이,인물 에세이,https://book.naver.com/category/index.naver?cate_code=110030&tab=top100&list_type=list&sort_type=salecount
+시/에세이,삶의 지혜/명언,https://book.naver.com/category/index.naver?cate_code=110100&tab=top100&list_type=list&sort_type=salecount
+경제/경영,경제,https://book.naver.com/category/index.naver?cate_code=160010&tab=top100&list_type=list&sort_type=salecount
+경제/경영,경영,https://book.naver.com/category/index.naver?cate_code=160020&tab=top100&list_type=list&sort_type=salecount
+경제/경영,마케팅/세일즈,https://book.naver.com/category/index.naver?cate_code=160030&tab=top100&list_type=list&sort_type=salecount
+경제/경영,재테크/투자,https://book.naver.com/category/index.naver?cate_code=160040&tab=top100&list_type=list&sort_type=salecount
+경제/경영,창업/취업,https://book.naver.com/category/index.naver?cate_code=160050&tab=top100&list_type=list&sort_type=salecount
+자기계발,대화/협상,https://book.naver.com/category/index.naver?cate_code=170050&tab=top100&list_type=list&sort_type=salecount
+자기계발,성공/처세,https://book.naver.com/category/index.naver?cate_code=170010&tab=top100&list_type=list&sort_type=salecount
+자기계발,시간관리,https://book.naver.com/category/index.naver?cate_code=170020&tab=top100&list_type=list&sort_type=salecount
+자기계발,인간관계,https://book.naver.com/category/index.naver?cate_code=170040&tab=top100&list_type=list&sort_type=salecount
+자기계발,자기능력계발,https://book.naver.com/category/index.naver?cate_code=170030&tab=top100&list_type=list&sort_type=salecount
+인문,인문일반,https://book.naver.com/category/index.naver?cate_code=120010&tab=top100&list_type=list&sort_type=salecount
+인문,심리,https://book.naver.com/category/index.naver?cate_code=120020&tab=top100&list_type=list&sort_type=salecount
+인문,교육학,https://book.naver.com/category/index.naver?cate_code=120030&tab=top100&list_type=list&sort_type=salecount
+인문,철학,https://book.naver.com/category/index.naver?cate_code=120040&tab=top100&list_type=list&sort_type=salecount
+인문,문학론,https://book.naver.com/category/index.naver?cate_code=120050&tab=top100&list_type=list&sort_type=salecount
+인문,언어학/기호학,https://book.naver.com/category/index.naver?cate_code=120060&tab=top100&list_type=list&sort_type=salecount
+인문,종교학,https://book.naver.com/category/index.naver?cate_code=120070&tab=top100&list_type=list&sort_type=salecount
+인문,신화,https://book.naver.com/category/index.naver?cate_code=120080&tab=top100&list_type=list&sort_type=salecount
+역사/문화,역사/문화일반,https://book.naver.com/category/index.naver?cate_code=190010&tab=top100&list_type=list&sort_type=salecount
+역사/문화,세계사,https://book.naver.com/category/index.naver?cate_code=190020&tab=top100&list_type=list&sort_type=salecount
+역사/문화,서양사,https://book.naver.com/category/index.naver?cate_code=190030&tab=top100&list_type=list&sort_type=salecount
+역사/문화,동양사,https://book.naver.com/category/index.naver?cate_code=190040&tab=top100&list_type=list&sort_type=salecount
+역사/문화,한국사,https://book.naver.com/category/index.naver?cate_code=190050&tab=top100&list_type=list&sort_type=salecount
+사회,정치/외교,https://book.naver.com/category/index.naver?cate_code=180010&tab=top100&list_type=list&sort_type=salecount
+사회,행정/정책,https://book.naver.com/category/index.naver?cate_code=180020&tab=top100&list_type=list&sort_type=salecount
+사회,국방/군사/경찰,https://book.naver.com/category/index.naver?cate_code=180030&tab=top100&list_type=list&sort_type=salecount
+사회,법,https://book.naver.com/category/index.naver?cate_code=180040&tab=top100&list_type=list&sort_type=salecount
+사회,사회학,https://book.naver.com/category/index.naver?cate_code=180050&tab=top100&list_type=list&sort_type=salecount
+사회,사회복지,https://book.naver.com/category/index.naver?cate_code=180060&tab=top100&list_type=list&sort_type=salecount
+사회,언론/신문/방송,https://book.naver.com/category/index.naver?cate_code=180070&tab=top100&list_type=list&sort_type=salecount
+과학/공학,공학일반/산업공학,https://book.naver.com/category/index.naver?cate_code=250090&tab=top100&list_type=list&sort_type=salecount
+과학/공학,과학기본서,https://book.naver.com/category/index.naver?cate_code=250020&tab=top100&list_type=list&sort_type=salecount
+과학/공학,기계/전기/전자,https://book.naver.com/category/index.naver?cate_code=250100&tab=top100&list_type=list&sort_type=salecount
+과학/공학,농수산/축산,https://book.naver.com/category/index.naver?cate_code=250110&tab=top100&list_type=list&sort_type=salecount
+과학/공학,도시/토목/건설,https://book.naver.com/category/index.naver?cate_code=250080&tab=top100&list_type=list&sort_type=salecount
+과학/공학,물리학,https://book.naver.com/category/index.naver?cate_code=250040&tab=top100&list_type=list&sort_type=salecount
+과학/공학,생물학,https://book.naver.com/category/index.naver?cate_code=250060&tab=top100&list_type=list&sort_type=salecount
+과학/공학,수학,https://book.naver.com/category/index.naver?cate_code=250030&tab=top100&list_type=list&sort_type=salecount
+과학/공학,쉽게 읽는 과학,https://book.naver.com/category/index.naver?cate_code=250010&tab=top100&list_type=list&sort_type=salecount
+과학/공학,의학/식품/생활과학,https://book.naver.com/category/index.naver?cate_code=250120&tab=top100&list_type=list&sort_type=salecount
+과학/공학,천문/지구과학,https://book.naver.com/category/index.naver?cate_code=250070&tab=top100&list_type=list&sort_type=salecount
+과학/공학,화학,https://book.naver.com/category/index.naver?cate_code=250050&tab=top100&list_type=list&sort_type=salecount
+예술/대중문화,예술일반,https://book.naver.com/category/index.naver?cate_code=210010&tab=top100&list_type=list&sort_type=salecount
+예술/대중문화,미술,https://book.naver.com/category/index.naver?cate_code=210020&tab=top100&list_type=list&sort_type=salecount
+예술/대중문화,음악,https://book.naver.com/category/index.naver?cate_code=210030&tab=top100&list_type=list&sort_type=salecount
+예술/대중문화,건축,https://book.naver.com/category/index.naver?cate_code=210040&tab=top100&list_type=list&sort_type=salecount
+예술/대중문화,만화/애니메이션,https://book.naver.com/category/index.naver?cate_code=210050&tab=top100&list_type=list&sort_type=salecount
+예술/대중문화,사진,https://book.naver.com/category/index.naver?cate_code=210060&tab=top100&list_type=list&sort_type=salecount
+예술/대중문화,연극/영화,https://book.naver.com/category/index.naver?cate_code=210070&tab=top100&list_type=list&sort_type=salecount
+예술/대중문화,TV/대중문화,https://book.naver.com/category/index.naver?cate_code=210080&tab=top100&list_type=list&sort_type=salecount
+종교,기독교(개신교),https://book.naver.com/category/index.naver?cate_code=200020&tab=top100&list_type=list&sort_type=salecount
+종교,가톨릭,https://book.naver.com/category/index.naver?cate_code=200030&tab=top100&list_type=list&sort_type=salecount
+종교,불교,https://book.naver.com/category/index.naver?cate_code=200040&tab=top100&list_type=list&sort_type=salecount
+종교,종교일반,https://book.naver.com/category/index.naver?cate_code=200010&tab=top100&list_type=list&sort_type=salecount
+종교,기타,https://book.naver.com/category/index.naver?cate_code=200050&tab=top100&list_type=list&sort_type=salecount
+유아,0~3세,https://book.naver.com/category/index.naver?cate_code=310010&tab=top100&list_type=list&sort_type=salecount
+유아,4~7세,https://book.naver.com/category/index.naver?cate_code=310020&tab=top100&list_type=list&sort_type=salecount
+유아,유아놀이책,https://book.naver.com/category/index.naver?cate_code=310030&tab=top100&list_type=list&sort_type=salecount
+유아,유아그림책,https://book.naver.com/category/index.naver?cate_code=310040&tab=top100&list_type=list&sort_type=salecount
+유아,유아학습,https://book.naver.com/category/index.naver?cate_code=310050&tab=top100&list_type=list&sort_type=salecount
+어린이,초등1~2학년,https://book.naver.com/category/index.naver?cate_code=320010&tab=top100&list_type=list&sort_type=salecount
+어린이,초등3~4학년,https://book.naver.com/category/index.naver?cate_code=320020&tab=top100&list_type=list&sort_type=salecount
+어린이,초등5~6학년,https://book.naver.com/category/index.naver?cate_code=320030&tab=top100&list_type=list&sort_type=salecount
+어린이,어린이(공통),https://book.naver.com/category/index.naver?cate_code=320040&tab=top100&list_type=list&sort_type=salecount
+어린이,어린이영어,https://book.naver.com/category/index.naver?cate_code=320050&tab=top100&list_type=list&sort_type=salecount
+가정/생활/요리,결혼/가족,https://book.naver.com/category/index.naver?cate_code=130010&tab=top100&list_type=list&sort_type=salecount
+가정/생활/요리,임신/출산/육아,https://book.naver.com/category/index.naver?cate_code=130020&tab=top100&list_type=list&sort_type=salecount
+가정/생활/요리,자녀교육,https://book.naver.com/category/index.naver?cate_code=130030&tab=top100&list_type=list&sort_type=salecount
+가정/생활/요리,집/살림,https://book.naver.com/category/index.naver?cate_code=130040&tab=top100&list_type=list&sort_type=salecount
+가정/생활/요리,요리,https://book.naver.com/category/index.naver?cate_code=130050&tab=top100&list_type=list&sort_type=salecount
+건강,건강정보/에세이,https://book.naver.com/category/index.naver?cate_code=140010&tab=top100&list_type=list&sort_type=salecount
+건강,다이어트/미용,https://book.naver.com/category/index.naver?cate_code=140030&tab=top100&list_type=list&sort_type=salecount
+건강,요가/헬스,https://book.naver.com/category/index.naver?cate_code=140040&tab=top100&list_type=list&sort_type=salecount
+건강,질병치료/예방,https://book.naver.com/category/index.naver?cate_code=140020&tab=top100&list_type=list&sort_type=salecount
+건강,건강운동 기타,https://book.naver.com/category/index.naver?cate_code=140050&tab=top100&list_type=list&sort_type=salecount
+취미/레저,꽃꽂이,https://book.naver.com/category/index.naver?cate_code=150050&tab=top100&list_type=list&sort_type=salecount
+취미/레저,뜨개질/퀼트/십자수,https://book.naver.com/category/index.naver?cate_code=150010&tab=top100&list_type=list&sort_type=salecount
+취미/레저,비즈/구슬공예,https://book.naver.com/category/index.naver?cate_code=150020&tab=top100&list_type=list&sort_type=salecount
+취미/레저,선물포장/리본공예,https://book.naver.com/category/index.naver?cate_code=150030&tab=top100&list_type=list&sort_type=salecount
+취미/레저,옷만들기,https://book.naver.com/category/index.naver?cate_code=150040&tab=top100&list_type=list&sort_type=salecount
+취미/레저,가구/DIY,https://book.naver.com/category/index.naver?cate_code=150110&tab=top100&list_type=list&sort_type=salecount
+취미/레저,바둑/장기,https://book.naver.com/category/index.naver?cate_code=150070&tab=top100&list_type=list&sort_type=salecount
+취미/레저,사진/비디오,https://book.naver.com/category/index.naver?cate_code=150090&tab=top100&list_type=list&sort_type=salecount
+취미/레저,애완동물,https://book.naver.com/category/index.naver?cate_code=150080&tab=top100&list_type=list&sort_type=salecount
+취미/레저,원예/조경,https://book.naver.com/category/index.naver?cate_code=150100&tab=top100&list_type=list&sort_type=salecount
+취미/레저,퍼즐/스도쿠,https://book.naver.com/category/index.naver?cate_code=150060&tab=top100&list_type=list&sort_type=salecount
+취미/레저,골프,https://book.naver.com/category/index.naver?cate_code=150130&tab=top100&list_type=list&sort_type=salecount
+취미/레저,낚시,https://book.naver.com/category/index.naver?cate_code=150150&tab=top100&list_type=list&sort_type=salecount
+취미/레저,달리기/마라톤,https://book.naver.com/category/index.naver?cate_code=150160&tab=top100&list_type=list&sort_type=salecount
+취미/레저,등산,https://book.naver.com/category/index.naver?cate_code=150140&tab=top100&list_type=list&sort_type=salecount
+취미/레저,레저/스포츠기타,https://book.naver.com/category/index.naver?cate_code=150170&tab=top100&list_type=list&sort_type=salecount
+취미/레저,취미기타,https://book.naver.com/category/index.naver?cate_code=150120&tab=top100&list_type=list&sort_type=salecount
+여행/지도,국내여행,https://book.naver.com/category/index.naver?cate_code=270010&tab=top100&list_type=list&sort_type=salecount
+여행/지도,해외여행,https://book.naver.com/category/index.naver?cate_code=270020&tab=top100&list_type=list&sort_type=salecount
+여행/지도,테마여행,https://book.naver.com/category/index.naver?cate_code=270030&tab=top100&list_type=list&sort_type=salecount
+여행/지도,지도/지리,https://book.naver.com/category/index.naver?cate_code=270040&tab=top100&list_type=list&sort_type=salecount
+국어/외국어,국어,https://book.naver.com/category/index.naver?cate_code=230010&tab=top100&list_type=list&sort_type=salecount
+국어/외국어,영어,https://book.naver.com/category/index.naver?cate_code=230020&tab=top100&list_type=list&sort_type=salecount
+국어/외국어,일본어,https://book.naver.com/category/index.naver?cate_code=230030&tab=top100&list_type=list&sort_type=salecount
+국어/외국어,중국어,https://book.naver.com/category/index.naver?cate_code=230040&tab=top100&list_type=list&sort_type=salecount
+국어/외국어,기타 외국어,https://book.naver.com/category/index.naver?cate_code=230050&tab=top100&list_type=list&sort_type=salecount
+사전,국어사전,https://book.naver.com/category/index.naver?cate_code=240050&tab=top100&list_type=list&sort_type=salecount
+사전,한자사전,https://book.naver.com/category/index.naver?cate_code=240040&tab=top100&list_type=list&sort_type=salecount
+사전,한영/영한/영영사전,https://book.naver.com/category/index.naver?cate_code=240010&tab=top100&list_type=list&sort_type=salecount
+사전,일한/한일사전,https://book.naver.com/category/index.naver?cate_code=240020&tab=top100&list_type=list&sort_type=salecount
+사전,중한/한중사전,https://book.naver.com/category/index.naver?cate_code=240030&tab=top100&list_type=list&sort_type=salecount
+사전,기타나라어사전,https://book.naver.com/category/index.naver?cate_code=240060&tab=top100&list_type=list&sort_type=salecount
+사전,백과/전문사전,https://book.naver.com/category/index.naver?cate_code=240070&tab=top100&list_type=list&sort_type=salecount
+컴퓨터/IT,웹/컴퓨터입문/활용,https://book.naver.com/category/index.naver?cate_code=280010&tab=top100&list_type=list&sort_type=salecount
+컴퓨터/IT,IT 전문서,https://book.naver.com/category/index.naver?cate_code=280020&tab=top100&list_type=list&sort_type=salecount
+컴퓨터/IT,그래픽/멀티미디어,https://book.naver.com/category/index.naver?cate_code=280030&tab=top100&list_type=list&sort_type=salecount
+컴퓨터/IT,오피스활용도서,https://book.naver.com/category/index.naver?cate_code=280040&tab=top100&list_type=list&sort_type=salecount
+컴퓨터/IT,컴퓨터수험서,https://book.naver.com/category/index.naver?cate_code=280050&tab=top100&list_type=list&sort_type=salecount
+청소년,공부방법/진학가이드,https://book.naver.com/category/index.naver?cate_code=300020&tab=top100&list_type=list&sort_type=salecount
+청소년,논술대비,https://book.naver.com/category/index.naver?cate_code=300010&tab=top100&list_type=list&sort_type=salecount
+청소년,진로/진학가이드,https://book.naver.com/category/index.naver?cate_code=300030&tab=top100&list_type=list&sort_type=salecount
+청소년,청소년 경제/자기계발,https://book.naver.com/category/index.naver?cate_code=300040&tab=top100&list_type=list&sort_type=salecount
+청소년,청소년 과학,https://book.naver.com/category/index.naver?cate_code=300080&tab=top100&list_type=list&sort_type=salecount
+청소년,청소년 문학,https://book.naver.com/category/index.naver?cate_code=300050&tab=top100&list_type=list&sort_type=salecount
+청소년,청소년 예술,https://book.naver.com/category/index.naver?cate_code=300070&tab=top100&list_type=list&sort_type=salecount
+청소년,청소년 인문/사회,https://book.naver.com/category/index.naver?cate_code=300060&tab=top100&list_type=list&sort_type=salecount
+학습/참고서,고등학교,https://book.naver.com/category/index.naver?cate_code=220010&tab=top100&list_type=list&sort_type=salecount
+학습/참고서,중학교,https://book.naver.com/category/index.naver?cate_code=220020&tab=top100&list_type=list&sort_type=salecount
+학습/참고서,초등학교,https://book.naver.com/category/index.naver?cate_code=220030&tab=top100&list_type=list&sort_type=salecount
+학습/참고서,논술/면접대비,https://book.naver.com/category/index.naver?cate_code=220040&tab=top100&list_type=list&sort_type=salecount
+학습/참고서,공부방법/진학,https://book.naver.com/category/index.naver?cate_code=220050&tab=top100&list_type=list&sort_type=salecount
+취업/수험서,취업/상식/적성검사,https://book.naver.com/category/index.naver?cate_code=260010&tab=top100&list_type=list&sort_type=salecount
+취업/수험서,공무원,https://book.naver.com/category/index.naver?cate_code=260020&tab=top100&list_type=list&sort_type=salecount
+취업/수험서,고시,https://book.naver.com/category/index.naver?cate_code=260030&tab=top100&list_type=list&sort_type=salecount
+취업/수험서,전문직,https://book.naver.com/category/index.naver?cate_code=260040&tab=top100&list_type=list&sort_type=salecount
+취업/수험서,편입/검정고시,https://book.naver.com/category/index.naver?cate_code=260050&tab=top100&list_type=list&sort_type=salecount
+만화,공포/추리,https://book.naver.com/category/index.naver?cate_code=330090&tab=top100&list_type=list&sort_type=salecount
+만화,교양만화,https://book.naver.com/category/index.naver?cate_code=330010&tab=top100&list_type=list&sort_type=salecount
+만화,드라마,https://book.naver.com/category/index.naver?cate_code=330020&tab=top100&list_type=list&sort_type=salecount
+만화,명랑/코믹만화,https://book.naver.com/category/index.naver?cate_code=330080&tab=top100&list_type=list&sort_type=salecount
+만화,성인만화,https://book.naver.com/category/index.naver?cate_code=330030&tab=top100&list_type=list&sort_type=salecount
+만화,순정만화,https://book.naver.com/category/index.naver?cate_code=330040&tab=top100&list_type=list&sort_type=salecount
+만화,스포츠만화,https://book.naver.com/category/index.naver?cate_code=330050&tab=top100&list_type=list&sort_type=salecount
+만화,액션/무협만화,https://book.naver.com/category/index.naver?cate_code=330070&tab=top100&list_type=list&sort_type=salecount
+만화,웹툰/카툰에세이,https://book.naver.com/category/index.naver?cate_code=330110&tab=top100&list_type=list&sort_type=salecount
+만화,학원만화,https://book.naver.com/category/index.naver?cate_code=330100&tab=top100&list_type=list&sort_type=salecount
+만화,일본어판 만화,https://book.naver.com/category/index.naver?cate_code=330130&tab=top100&list_type=list&sort_type=salecount
+만화,영문판 만화,https://book.naver.com/category/index.naver?cate_code=330140&tab=top100&list_type=list&sort_type=salecount
+만화,SF/판타지,https://book.naver.com/category/index.naver?cate_code=330060&tab=top100&list_type=list&sort_type=salecount
+만화,기타만화,https://book.naver.com/category/index.naver?cate_code=330120&tab=top100&list_type=list&sort_type=salecount
+잡지,여성/패션/리빙,https://book.naver.com/category/index.naver?cate_code=290010&tab=top100&list_type=list&sort_type=salecount
+잡지,인문/사회/종교,https://book.naver.com/category/index.naver?cate_code=290020&tab=top100&list_type=list&sort_type=salecount
+잡지,문예/교양지,https://book.naver.com/category/index.naver?cate_code=290030&tab=top100&list_type=list&sort_type=salecount
+잡지,자연/공학,https://book.naver.com/category/index.naver?cate_code=290040&tab=top100&list_type=list&sort_type=salecount
+잡지,컴퓨터/게임/그래픽,https://book.naver.com/category/index.naver?cate_code=290050&tab=top100&list_type=list&sort_type=salecount
+잡지,어학/교육,https://book.naver.com/category/index.naver?cate_code=290060&tab=top100&list_type=list&sort_type=salecount
+잡지,예술/대중문화,https://book.naver.com/category/index.naver?cate_code=290070&tab=top100&list_type=list&sort_type=salecount
+잡지,취미/여행,https://book.naver.com/category/index.naver?cate_code=290080&tab=top100&list_type=list&sort_type=salecount
+잡지,외국잡지,https://book.naver.com/category/index.naver?cate_code=290090&tab=top100&list_type=list&sort_type=salecount
+해외도서,가족/생활,https://book.naver.com/category/index.naver?cate_code=340080&tab=top100&list_type=list&sort_type=salecount
+해외도서,건축/예술,https://book.naver.com/category/index.naver?cate_code=340040&tab=top100&list_type=list&sort_type=salecount
+해외도서,경영경제,https://book.naver.com/category/index.naver?cate_code=340030&tab=top100&list_type=list&sort_type=salecount
+해외도서,과학/공학/수학,https://book.naver.com/category/index.naver?cate_code=340120&tab=top100&list_type=list&sort_type=salecount
+해외도서,문학/소설,https://book.naver.com/category/index.naver?cate_code=340010&tab=top100&list_type=list&sort_type=salecount
+해외도서,사회/정치/법,https://book.naver.com/category/index.naver?cate_code=340130&tab=top100&list_type=list&sort_type=salecount
+해외도서,언어/외국어/사전,https://book.naver.com/category/index.naver?cate_code=340090&tab=top100&list_type=list&sort_type=salecount
+해외도서,요리,https://book.naver.com/category/index.naver?cate_code=340060&tab=top100&list_type=list&sort_type=salecount
+해외도서,유아청소년/교육,https://book.naver.com/category/index.naver?cate_code=340020&tab=top100&list_type=list&sort_type=salecount
+해외도서,종교/명상,https://book.naver.com/category/index.naver?cate_code=340110&tab=top100&list_type=list&sort_type=salecount
+해외도서,철학/심리/역사,https://book.naver.com/category/index.naver?cate_code=340100&tab=top100&list_type=list&sort_type=salecount
+해외도서,취미/여행,https://book.naver.com/category/index.naver?cate_code=340070&tab=top100&list_type=list&sort_type=salecount
+해외도서,컴퓨터,https://book.naver.com/category/index.naver?cate_code=340050&tab=top100&list_type=list&sort_type=salecount
+해외도서,독일,https://book.naver.com/category/index.naver?cate_code=340140&tab=top100&list_type=list&sort_type=salecount
+해외도서,스페인,https://book.naver.com/category/index.naver?cate_code=340160&tab=top100&list_type=list&sort_type=salecount
+해외도서,일본도서,https://book.naver.com/category/index.naver?cate_code=340170&tab=top100&list_type=list&sort_type=salecount
+해외도서,프랑스,https://book.naver.com/category/index.naver?cate_code=340150&tab=top100&list_type=list&sort_type=salecount
