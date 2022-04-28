@@ -13,7 +13,7 @@ pip install -r requirements.txt
 
 ### Crawling Data
 ```
-python book_category.csv
+python book_category.py
 python get_book_info_and_bookstore_url.py
 python get_book_data.py
 ```
